@@ -2,7 +2,7 @@
 
 
 This folder contains the code and data for the implementation of the work titled: 
-"Decoding Stress and Triggers in Social Media: An Emotion-Driven Multitasking Framework Surpassing LLM Capabilities"
+"Blunt Giants, Sharp Specialists: Decoding Stress and Triggers Beyond General-Purpose LLMs"
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 We release a sample of our dataset for review purposes. The full dataset will be released upon acceptance. 
