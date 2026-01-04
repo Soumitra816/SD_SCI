@@ -19,5 +19,5 @@ Columns:
 model.py presnet the main function for the working methodology of the study.
 
 The LLM Baselines folder primarily consists two category of files:
-1. sacred.py = relates to the results for stress detection tasks. Model paths are to be changed as per the requirement.
-2. sacred_sci_.....py = relates to the results for stress cause identification task. One file each for reported results from each model.
+1. sacred_sd.py = relates to the results for stress detection tasks. Model paths are to be changed as per the requirement.
+2. sacred_sci.py = relates to the results for stress cause identification task. Model paths are to be changed as per the requirement.
